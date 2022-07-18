@@ -2,7 +2,7 @@
 In this project, I have build a simple HTML list of To Do tasks, and This simple web page is built using webpack and served by a webpack dev server.
 
 Project image
-![Awesome-Books](pic.png)
+![todo-list](pic.png)
 ## Built With
 - HTML
 - CSS
